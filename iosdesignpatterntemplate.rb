@@ -3,8 +3,8 @@
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
 class Iosdesignpatterntemplate < Formula
-  desc ""
-  homepage ""
+  desc "Templating Design Patterns"
+  homepage "https://github.com/ImranHishaam/iOSDesignPatternTemplate"
   url "https://github.com/ImranHishaam/iOSDesignPatternTemplate/archive/v1.0.0.tar.gz"
   sha256 "f3c2210a9e6b0d1f6c894ffa91572c024f616c44d43cafc094daa0620956e50d"
 
