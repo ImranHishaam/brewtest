@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+if ARGV.length == 1 
+	puts "The apple apple is: " << ARGV[0]
+else 
+	puts "Please enter the parameter apple apple"
+end
